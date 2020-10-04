@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1500644464 source:e:\other\projects\nibm\semester 1\programmning\highway\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1498833330 source:e:\other\projects\nibm\semester 1\programmning\highway\login.c
+	<stdio.h>
+	<stdlib.h>
+
+1500648702 source:d:\highway\login.c
+	<stdio.h>
+	<stdlib.h>
+
+1500700058 source:d:\highway\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
